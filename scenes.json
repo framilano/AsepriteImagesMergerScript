@@ -1,0 +1,30 @@
+[
+    {
+        "pngs": [1, 12],
+        "frame_duration_ms": 600
+    },
+    {
+        "pngs": [13, 15],
+        "frame_duration_ms": 100
+    },
+    {
+        "pngs": [16, 25],
+        "frame_duration_ms": 600
+    },
+    {
+        "pngs": [26, 28],
+        "frame_duration_ms": 100
+    },
+    {
+        "pngs": [29, 38],
+        "frame_duration_ms": 600
+    },
+    {
+        "pngs": [39, 41],
+        "frame_duration_ms": 100
+    },
+    {
+        "pngs": [42, 51],
+        "frame_duration_ms": 600
+    }
+]
