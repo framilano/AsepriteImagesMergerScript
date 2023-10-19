@@ -32,5 +32,5 @@ That's it, run the `animationsyncer.py` script inside the folder with all PNGs a
 
 ## Todo
 - [ ] Multithread implementation
-- [ ] Pass PNGs base file name as an argument, without changing the python script
+- [X] Pass PNGs base file name as an argument, without changing the python script
 
