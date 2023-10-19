@@ -1,30 +1,14 @@
 [
     {
-        "pngs": [1, 12],
-        "frame_duration_ms": 600
+        "pngs": [1, 1],
+        "frame_duration_ms": 2000
     },
     {
-        "pngs": [13, 15],
-        "frame_duration_ms": 100
+        "pngs": [2, 10],
+        "frame_duration_ms": 500
     },
     {
-        "pngs": [16, 25],
-        "frame_duration_ms": 600
-    },
-    {
-        "pngs": [26, 28],
-        "frame_duration_ms": 100
-    },
-    {
-        "pngs": [29, 38],
-        "frame_duration_ms": 600
-    },
-    {
-        "pngs": [39, 41],
-        "frame_duration_ms": 100
-    },
-    {
-        "pngs": [42, 51],
-        "frame_duration_ms": 600
+        "pngs": [11, 11],
+        "frame_duration_ms": 20000
     }
 ]
